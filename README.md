@@ -1,5 +1,3 @@
-<h3 align="center">Interested in Linux, web/Android development and 3D graphics.</h3>
-
 <div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/evroon) &nbsp;
