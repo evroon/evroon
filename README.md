@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/evroon/bracket">
-    <img align="center" width="800" src="https://raw.githubusercontent.com/evroon/bracket/master/docs/static/img/bracket-screenshot-design.png" alt="bracket" />
+    <img align="center" width="800" src="https://raw.githubusercontent.com/evroon/bracket/master/docs/content/img/bracket-screenshot-design.png" alt="bracket" />
   </a>
 </p>
 <p align="center">
