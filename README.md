@@ -7,12 +7,12 @@ My personal website: https://erikvroon.nl
 
 <p align="center">
   <a href="https://github.com/evroon/bracket">
-    <img align="center" width="75%" src="https://raw.githubusercontent.com/evroon/bracket/master/docs/content/img/bracket-screenshot-design.png" alt="bracket" />
+    <img align="center" width="85%" src="https://raw.githubusercontent.com/evroon/bracket/master/docs/content/img/bracket-screenshot-design.png" alt="bracket" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/evroon/bevy-volumetric-clouds">
-    <img align="center" width="75%" src="https://github.com/evroon/bevy-volumetric-clouds/raw/master/.github/screenshots/clouds.png" alt="bevy-hydrology" />
+    <img align="center" width="85%" src="https://github.com/evroon/bevy-volumetric-clouds/raw/master/.github/screenshots/clouds.png" alt="bevy-hydrology" />
   </a>
 </p>
 
